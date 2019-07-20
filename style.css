@@ -1,4 +1,4 @@
-body {
+body, a {
   width: 50%;
   height: 100%;
   margin: 0;
@@ -17,9 +17,4 @@ figcaption {
 #details {
   display:block;
   float:left;
-}
-
-a {
-  text-align:center;
-  
 }
